@@ -5,11 +5,11 @@ To generate the concepts map I used the tikz package and the colours were chosen
 ## Computational Neuroscience Neuromatch Concept Map
 <img src="NMA_CompNeuro_Map.png"
      alt="NMA Comp Neuro Concept Map"
-     style="float: left; margin-right: 10px;" width="500" height="600" />
+     style="float: left; margin-right: 10px;" width="500" />
 ## Deep Learning Neuromatch Concept Map
 <img src="NMA_DeepLearning_Map.png"
      alt="NMA Deep Learning Concept Map"
-     style="float: left; margin-right: 10px;" width="500" height="600" />
+     style="float: left; margin-right: 10px;" width="500" />
 
 ```python
 
