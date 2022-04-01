@@ -13,4 +13,5 @@ To generate the concepts map I used the tikz package and the colours were chosen
 
 
 If you do use the code please cite:
+
 't Hart, M. et al., (2022). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. Journal of Open Source Education, 5(49), 118, https://doi.org/10.21105/jose.00118
