@@ -11,6 +11,6 @@ To generate the concepts map I used the tikz package and the colours were chosen
      alt="NMA Deep Learning Concept Map"
      style="float: left; margin-right: 10px;" width="500" />
 
-```python
 
-```
+If you do use the code please cite:
+'t Hart, M. et al., (2022). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. Journal of Open Source Education, 5(49), 118, https://doi.org/10.21105/jose.00118
