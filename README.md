@@ -16,6 +16,8 @@ To generate the concepts map I used the tikz package and the colours were chosen
 <img src="DL_ConceptMap_2023.png"
      alt="NMA Deep Learning Concept Map 2023"
      style="float: left; margin-right: 10px;" width="500" />
+
+     
 If you do use the code please cite:
 
 't Hart, M. et al., (2022). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. Journal of Open Source Education, 5(49), 118, https://doi.org/10.21105/jose.00118
